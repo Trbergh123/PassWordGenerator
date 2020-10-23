@@ -2,7 +2,7 @@
 
 Password generator using javaScript
 
-![](!PasswordGen.PNG)
+![](PasswordGen.PNG)
 
 
 deployed link:
